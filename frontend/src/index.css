@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.button{
+  border: none;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  color: white;
+  cursor: pointer;
+}
+button:hover{
+  color: lightskyblue;
+}
+@font-face {
+  font-family: 'PressStart';
+  src: url("assets/fonts/PressStart2P.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
